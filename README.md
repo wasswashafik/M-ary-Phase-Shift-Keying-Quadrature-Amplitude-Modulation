@@ -10,4 +10,4 @@ Part 2: M-ary Quadrature Amplitude Modulation
 
 The purpose of this part is to perform Simulation of 16-QAM modulation scheme that uses rectangular single grid. The sixteen points are (1, 1), (1, 3), (3, 1) and (3, 3). The random number generator is used to generate a sequence of information bits corresponding to the 16 possible 4-bit combination b1, b2, b3, b4. These 16-combinations are mapped to the 16 signal vectors, which have coordinates of {Ami, Amq}. The detector will compute the distance between the received vector r = (ri, rq} and each of the transmitted vectors and choose the signal vector that is closest to r. The Symbol and Bit Error Probabilities vs. Eb/No (not Es) for at least 250,000 symbols (each symbol represent 4-bits) are simulated and compared with the theoretical results.
 
-For more: wasswashafik@stu.yazd.ac.ir 
+For more: wasswashafik [at] dcrlab [dot] org 
